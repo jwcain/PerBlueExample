@@ -3,6 +3,8 @@ Gamme Repo for PerBlue demo project.
 
 This repository contians the Unity project for Hexquisite, a hexagonal sliding block puzzle game.
 
+Written in C#, Unity.
+
 Play Demo Online:
 https://jwcain.github.io/Hexquisite/
 
