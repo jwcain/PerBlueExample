@@ -1,0 +1,562 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8692126576517223337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Piano 5
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Piano 5
+  Guid:
+    Data1: -642680257
+    Data2: 1307384028
+    Data3: 1349120926
+    Data4: -1425613547
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 97880
+--- !u!114 &-6083763300135944408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Piano 2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Piano 2
+  Guid:
+    Data1: 316637122
+    Data2: 1264914605
+    Data3: -893051513
+    Data4: 1564326321
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 107076
+--- !u!114 &-4321767311159862029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PickupShape
+  m_EditorClassIdentifier: 
+  Path: event:/PickupShape
+  Guid:
+    Data1: 600783529
+    Data2: 1276632945
+    Data3: -1688805991
+    Data4: 330736805
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1848346549147922664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: FModHexquisite/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637948987090000000
+  FileSizes:
+  - Name: Desktop
+    Value: 149472
+  Exists: 1
+--- !u!114 &-1404094993952786284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/414557__hakren__jazzy-ambient-piano-mansion
+  m_EditorClassIdentifier: 
+  Path: event:/Music/414557__hakren__jazzy-ambient-piano-mansion
+  Guid:
+    Data1: 1867080130
+    Data2: 1317780482
+    Data3: 820267937
+    Data4: -630441956
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 115480
+--- !u!114 &-852434095958669442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/DropPiece
+  m_EditorClassIdentifier: 
+  Path: event:/DropPiece
+  Guid:
+    Data1: 1166441286
+    Data2: 1250220137
+    Data3: 1134495892
+    Data4: 1456759010
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 3714606999292022262}
+  - {fileID: -1848346549147922664}
+  - {fileID: 5941429560495897814}
+  EditorEvents:
+  - {fileID: 6672982865490514544}
+  - {fileID: 4675909840204354545}
+  - {fileID: -852434095958669442}
+  - {fileID: 318960310966727914}
+  - {fileID: 4995133685631547505}
+  - {fileID: -4321767311159862029}
+  - {fileID: 5463122499613723380}
+  - {fileID: 3841937737285118140}
+  - {fileID: -8692126576517223337}
+  - {fileID: 2154478777801921886}
+  - {fileID: 1495485554382849900}
+  - {fileID: 981299517811679234}
+  - {fileID: 5466344449604598584}
+  - {fileID: -1404094993952786284}
+  - {fileID: 4552733733549825933}
+  - {fileID: -6083763300135944408}
+  - {fileID: 3770655245944851532}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -1848346549147922664}
+  StringsBanks:
+  - {fileID: 3714606999292022262}
+  cacheTime: 637948987090000000
+  cacheVersion: 131591
+--- !u!114 &318960310966727914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SlideIntoPlace
+  m_EditorClassIdentifier: 
+  Path: event:/SlideIntoPlace
+  Guid:
+    Data1: -539317367
+    Data2: 1237295663
+    Data3: -1815315065
+    Data4: -2029522954
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &981299517811679234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Piano 1
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Piano 1
+  Guid:
+    Data1: -660246349
+    Data2: 1269421206
+    Data3: -1857554290
+    Data4: -1267183329
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 77738
+--- !u!114 &1495485554382849900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Piano 4
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Piano 4
+  Guid:
+    Data1: -2123476330
+    Data2: 1114968735
+    Data3: -1898377312
+    Data4: -915755734
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 96000
+--- !u!114 &2154478777801921886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Piano 3
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Piano 3
+  Guid:
+    Data1: 1113529967
+    Data2: 1104177635
+    Data3: -743597402
+    Data4: 1921142489
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 40615
+--- !u!114 &3714606999292022262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: FModHexquisite/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637948987090000000
+  FileSizes:
+  - Name: Desktop
+    Value: 1630
+  Exists: 1
+--- !u!114 &3770655245944851532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/496425__sergequadrado__film-reveal
+  m_EditorClassIdentifier: 
+  Path: event:/Music/496425__sergequadrado__film-reveal
+  Guid:
+    Data1: 1974351581
+    Data2: 1100049388
+    Data3: -1414422099
+    Data4: 519062136
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &3841937737285118140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/441333__alanspiljak__flash-piano-ambient
+  m_EditorClassIdentifier: 
+  Path: event:/Music/441333__alanspiljak__flash-piano-ambient
+  Guid:
+    Data1: -131539710
+    Data2: 1281513799
+    Data3: -1705982037
+    Data4: -1568727731
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 38373
+--- !u!114 &4552733733549825933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/418442__hakren__afternoon-ambient-piano-solo
+  m_EditorClassIdentifier: 
+  Path: event:/Music/418442__hakren__afternoon-ambient-piano-solo
+  Guid:
+    Data1: -350592062
+    Data2: 1166565280
+    Data3: 2072104320
+    Data4: 388530378
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 128173
+--- !u!114 &4675909840204354545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Collision
+  m_EditorClassIdentifier: 
+  Path: event:/Collision
+  Guid:
+    Data1: -446086856
+    Data2: 1271789158
+    Data3: -768449647
+    Data4: 815070377
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4995133685631547505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SlideLoop
+  m_EditorClassIdentifier: 
+  Path: event:/SlideLoop
+  Guid:
+    Data1: -1236474211
+    Data2: 1282474946
+    Data3: -565395530
+    Data4: 1925380976
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5276
+--- !u!114 &5463122499613723380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sliding
+  m_EditorClassIdentifier: 
+  Path: event:/Sliding
+  Guid:
+    Data1: 850540253
+    Data2: 1142764410
+    Data3: 1585782705
+    Data4: -851933502
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1440
+--- !u!114 &5466344449604598584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Ambient Wave
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Ambient Wave
+  Guid:
+    Data1: 1753536446
+    Data2: 1291207439
+    Data3: -1950371186
+    Data4: 1605320725
+  Banks:
+  - {fileID: 5941429560495897814}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 51718
+--- !u!114 &5941429560495897814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: FModHexquisite/Build/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 637948987090000000
+  FileSizes:
+  - Name: Desktop
+    Value: 8166304
+  Exists: 1
+--- !u!114 &6672982865490514544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Success
+  m_EditorClassIdentifier: 
+  Path: event:/Success
+  Guid:
+    Data1: -858318070
+    Data2: 1315044731
+    Data3: -1849105788
+    Data4: 827174198
+  Banks:
+  - {fileID: -1848346549147922664}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a39b9cda-e70a-4283-ab88-808afb6f7c5d}">
+		<property name="assetPath">
+			<value>441333__alanspiljak__flash-piano-ambient.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>38.373877551020406</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdff9dcc-e67d-4f9a-bc49-41793ad3556e}</destination>
+		</relationship>
+	</object>
+</objects>

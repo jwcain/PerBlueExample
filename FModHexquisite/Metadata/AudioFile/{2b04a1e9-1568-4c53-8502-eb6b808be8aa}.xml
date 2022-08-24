@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2b04a1e9-1568-4c53-8502-eb6b808be8aa}">
+		<property name="assetPath">
+			<value>183881__erokia__elementary-wave-11.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>51.71875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdff9dcc-e67d-4f9a-bc49-41793ad3556e}</destination>
+		</relationship>
+	</object>
+</objects>
